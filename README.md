@@ -32,5 +32,8 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
+## Description
+This project is a text editor that runs in the browser. It is a single page application following the Progressive Web Application standards. It will also have a function that allows the program to be run offline.
+
 ## Links
 Github: https://github.com/TimAspesberro/Text-Editor
