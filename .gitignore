@@ -1,2 +1,5 @@
-node_modules
-.npmrc
+.DS_Store/
+Assets/
+node_modules/
+.vscode/
+.env
