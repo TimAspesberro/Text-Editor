@@ -37,4 +37,4 @@ This project is a text editor that runs in the browser. It is a single page appl
 
 ## Links
 Github: https://github.com/TimAspesberro/Text-Editor
-Heroku: https://fathomless-cove-29282.herokuapp.com/
+Heroku: https://desolate-badlands-38518.herokuapp.com/
