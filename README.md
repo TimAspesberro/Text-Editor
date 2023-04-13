@@ -33,8 +33,12 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
 ## Description
-This project is a text editor that runs in the browser. It is a single page application following the Progressive Web Application standards. It will also have a function that allows the program to be run offline.
+This project is a text editor that runs in the browser. It is a single page application following the Progressive Web Application standards. It will also have a function that allows the program to be run offline. 
+
+## Deployed Image
+![image](assets\texteditor-screenshot.JPG)
 
 ## Links
 Github: https://github.com/TimAspesberro/Text-Editor
+
 Heroku: https://desolate-badlands-38518.herokuapp.com/
